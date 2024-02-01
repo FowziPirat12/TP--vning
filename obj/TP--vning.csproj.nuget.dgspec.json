@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\TryPars\\TP--vning\\TP--vning.csproj": {}
+    "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TP--vning\\TP--vning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\TryPars\\TP--vning\\TP--vning.csproj": {
+    "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TP--vning\\TP--vning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\TryPars\\TP--vning\\TP--vning.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TP--vning\\TP--vning.csproj",
         "projectName": "TP--vning",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\TryPars\\TP--vning\\TP--vning.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TP--vning\\TP--vning.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\TryPars\\TP--vning\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TP--vning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

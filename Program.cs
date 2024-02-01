@@ -6,16 +6,25 @@ class Program
     {
         int resultat;
         
-        if(!int.TryParse(Console.ReadLine(), out resultat))
+        if(!TryParse(Console.ReadLine(), out resultat))
         Console.WriteLine("Skriv in en Siffra");
         else 
         {
-            Console.WriteLine(resultat);
+            Console.Write(resultat);
         }
 
         bool TryParse(string s, out int resultat)
         {
-            resultat = int.Parse(s);
+            try{
+                resultat = int.Parse(s);   
+                return true; 
+            }
+
+            catch
+            {
+                resultat = -1;
+                return false;
+            }
             
         }
 

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.AssemblyInfo.cs
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\bin\Debug\net7.0\TP--vning.exe
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\bin\Debug\net7.0\TP--vning.deps.json
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\bin\Debug\net7.0\TP--vning.runtimeconfig.json
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\bin\Debug\net7.0\TP--vning.dll
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\bin\Debug\net7.0\TP--vning.pdb
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.dll
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\refint\TP--vning.dll
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.pdb
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\TP--vning.genruntimeconfig.cache
+C:\Users\Admin\Documents\programmering\king\C#\TP--vning\obj\Debug\net7.0\ref\TP--vning.dll
